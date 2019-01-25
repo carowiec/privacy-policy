@@ -8,8 +8,8 @@
 		<div id="container">
 			<h2>Privacy Policy</h2> 
 			<p> 
-			<a href="https://play.google.com/store/apps/details?id=com.Michal.Siggy" target="_blank">Siggy</a>
-			is Ad Supported app. That SERVICE is provided by Michal at no cost and is intended for use as is.</p> 
+			<a href="https://play.google.com/store/apps/details?id=com.carowiec.Siggy" target="_blank">Siggy</a>
+			is Ad Supported app. That SERVICE is provided by carowiec at no cost and is intended for use as is.</p> 
 			<p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p> 
 			<p>If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.</p> 
 			<p><strong>Information Collection and Use</strong></p> 
@@ -45,7 +45,7 @@
 			<p> I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.</p> 
 			<p><strong>Contact Us</strong></p> 
 			<p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 
-				<a href="mailto:mail@gmail.com">mail@gmail.com</a>.
+				<a href="mailto:friilancerpro@gmail.com">friilancerpro@gmail.com</a>.
 			</p>
 		</div>
 	</body>
