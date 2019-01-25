@@ -2,7 +2,6 @@
 	<head>
 		<meta charset='utf-8'>
 		<meta name='viewport' content='width=device-width'>
-		<title>Michał Gołębiewski Privacy Policy</title>
 		<link rel="stylesheet" type="text/css" href="styles.css">
 	</head>
 	<body>
